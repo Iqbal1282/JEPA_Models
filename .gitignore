@@ -8,3 +8,6 @@ __pycache__/
 .idea/
 *.pyc
 MNIST/
+cifar-10-batches-py/
+checkpoints/
+cifar-10-python.tar.gz
